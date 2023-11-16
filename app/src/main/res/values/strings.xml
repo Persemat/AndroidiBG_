@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">World News</string>
+    <string name="Fav_Country">Country of Interest</string>
+    <string name="login">Login</string>
+
+    <string-array name="countries">
+        <item>Italy</item>
+        <item>Spain</item>
+
+    </string-array>
+</resources>
